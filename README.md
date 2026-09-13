@@ -1,5 +1,5 @@
 # rl-sutton-barto
-My implementation of programming exercises in the book "Reinforcement Learning" by Sutton &amp; Barto
+A self directed study project working through Sutton & Barto's Reinforcement Learning: An Introduction, with my own implementations (not copied from reference solutions) of the book's exercises.
 
 ## Contents
 
