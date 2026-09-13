@@ -11,7 +11,7 @@ My implementation of programming exercises in the book "Reinforcement Learning" 
 ### Chapter 3 -- Finite Markov Decision Processes
 - *In Progress* (50%)
 
-##Results
+## Results
 
 ## Getting Started
 
